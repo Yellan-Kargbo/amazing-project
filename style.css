@@ -1,0 +1,99 @@
+.navigations-app {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navs-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-class {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigations {
+  margin: 10px;
+  font: bold;
+}
+.internet-text {
+  margin-top: 2px;
+  color: red;
+}
+
+.wishdesk-text {
+  font-size: 27px;
+}
+
+button {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+
+.send-button {
+  background-color: red;
+  height: 60px;
+  width: 170px;
+  color: white;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: rgb(88, 206, 88);
+}
+
+.section-class {
+  background-image: url(/pik.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; 
+  cursor: pointer; 
+}
+.section-class :hover{
+  background-color: rgb(144, 179, 202);
+}
+
+.colum-1{
+  color: white;
+  font-size: 28px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.template-class {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font: bold;
+}
+
+.date-class {
+  color: white;
+  font-size: 20px;
+  
+}
+
+.amazing-class {
+  margin-bottom: 3px;
+}
+
